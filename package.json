@@ -1,0 +1,28 @@
+{
+  "name": "buffered-function",
+  "version": "0.0.0",
+  "description": "Buffers calls to a function until ready",
+  "main": "buffered-function.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/download13/buffered-function.git"
+  },
+  "keywords": [
+    "buffer",
+    "wait",
+    "function",
+    "fn"
+  ],
+  "author": "Erin Dachtler <download333@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/download13/buffered-function/issues"
+  },
+  "homepage": "https://github.com/download13/buffered-function#readme"
+}
